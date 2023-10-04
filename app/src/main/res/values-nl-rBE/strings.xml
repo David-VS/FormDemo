@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FormDemo</string>
+    <string name="lbl_username">Gebruikersnaam</string>
+    <string name="lbl_pin">Pin code</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FormDemo</string>
+    <string name="lbl_username">Username</string>
+    <string name="lbl_pin">Pin code</string>
+</resources>
