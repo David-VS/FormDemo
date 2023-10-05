@@ -2,4 +2,6 @@
     <string name="app_name">FormDemo</string>
     <string name="lbl_username">Username</string>
     <string name="lbl_pin">Pin code</string>
+    <string name="txt_login">Log In</string>
+    <string name="txt_invalid_pin">Invalid Pin</string>
 </resources>

@@ -3,4 +3,6 @@
     <string name="app_name">FormDemo</string>
     <string name="lbl_username">Nom d\'utilisateur</string>
     <string name="lbl_pin">Code pin</string>
+    <string name="txt_login">Le Log in</string>
+    <string name="txt_invalid_pin">Ca craint le pin</string>
 </resources>
